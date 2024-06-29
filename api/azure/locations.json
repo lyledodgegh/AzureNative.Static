@@ -1,0 +1,12 @@
+{
+    "locations": [
+        {
+            "name": "useast",
+            "description": "East US"
+        },
+        {
+            "name": "useast2",
+            "latitude": "East US 2"
+        }
+    ]
+}
